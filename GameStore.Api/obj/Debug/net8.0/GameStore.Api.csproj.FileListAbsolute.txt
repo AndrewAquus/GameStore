@@ -29,3 +29,4 @@ F:\Azure\DevOps\GameStore\GameStore.Api\bin\Debug\net8.0\MiniValidation.dll
 F:\Azure\DevOps\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.csproj.AssemblyReference.cache
 F:\Azure\DevOps\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cs
 F:\Azure\DevOps\GameStore\GameStore.Api\obj\Debug\net8.0\GameStor.5118A84D.Up2Date
+F:\Azure\DevOps\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.sourcelink.json
